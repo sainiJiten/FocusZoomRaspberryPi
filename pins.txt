@@ -1,0 +1,9 @@
+Connect the pins of MCP3008 to the corresponding pins of pi:
+
+3.3V : 1
+SCLK : 40
+MISO : 35
+MOSI : 38
+CS : 29
+GND : 39
+
